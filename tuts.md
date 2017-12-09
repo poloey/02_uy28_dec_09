@@ -6,6 +6,7 @@
 * label[for]
 * select [name, selected]
 * option [value]
+* textarea[name]
 * [id, class]
 * div
 * span
